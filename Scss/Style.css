@@ -121,7 +121,7 @@ body .productCards {
       flex-wrap: wrap;
 }
 
-body .productCards p .card-text{
+body .productCards .card-text{
   color: black;
 }
 
